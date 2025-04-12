@@ -1,0 +1,19 @@
+04-12 22:50:33.954  1577  6632 E Transition: Trying to add a ready-group twice: Display{#0 state=ON size=1200x2000 ROTATION_0}
+04-12 22:50:33.978  1053  1097 E ANDR-PERF-UTIL: Failed to update node /proc/2533/sched_low_latency with value 1
+04-12 22:50:33.978  1053  1097 E ANDR-PERF-OPTSHANDLER: can't set low latency for tid 2533
+04-12 22:50:33.978  1053  1097 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [3, 52]
+04-12 22:50:33.978  1053  1097 E ANDR-PERF-UTIL: Failed to update node /proc/3440/sched_low_latency with value 1
+04-12 22:50:33.978  1053  1097 E ANDR-PERF-OPTSHANDLER: can't set low latency for tid 3440
+04-12 22:50:33.978  1053  1097 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [3, 52]
+04-12 22:50:33.978  1053  1097 E ANDR-PERF-UTIL: Failed to update node /proc/3439/sched_low_latency with value 1
+04-12 22:50:33.978  1053  1097 E ANDR-PERF-OPTSHANDLER: can't set low latency for tid 3439
+04-12 22:50:33.978  1053  1097 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [3, 52]
+04-12 22:50:33.978  1053  1097 E ANDR-PERF-UTIL: Failed to update node /proc/3342/sched_low_latency with value 1
+04-12 22:50:33.978  1053  1097 E ANDR-PERF-OPTSHANDLER: can't set low latency for tid 3342
+04-12 22:50:33.978  1053  1097 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [3, 52]
+04-12 22:50:33.978  1053  1097 E ANDR-PERF-UTIL: Failed to read /proc/sys/kernel/walt_low_latency_task_threshold
+04-12 22:50:33.978  1053  1097 E ANDR-PERF-OPTSHANDLER: Failed to read /proc/sys/kernel/walt_low_latency_task_threshold
+04-12 22:50:33.978  1053  1097 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [3, 54]
+04-12 22:50:34.119 13714 13714 F org.test.pb_app: runtime.cc:2584] Thread[1,tid=13714,Native,Thread*=0xb40000713fa09400,peer=0x7391acf8,"SDLActivity"] attempting to detach while still running code
+04-12 22:50:34.363  1115  1115 E BpTransactionCompletedListener: Failed to transact (-32)
+04-12 22:50:34.363  1115  1115 E BpTransactionCompletedListener: Failed to transact (-32)
